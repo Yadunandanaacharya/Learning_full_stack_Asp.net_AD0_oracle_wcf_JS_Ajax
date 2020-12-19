@@ -1,0 +1,6 @@
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\Old_files\samplewcfservice\bin\Debug\samplewcfservice.dll
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\Old_files\samplewcfservice\bin\Debug\samplewcfservice.pdb
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\Old_files\samplewcfservice\obj\Debug\samplewcfservice.csprojAssemblyReference.cache
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\Old_files\samplewcfservice\obj\Debug\samplewcfservice.csproj.CoreCompileInputs.cache
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\Old_files\samplewcfservice\obj\Debug\samplewcfservice.dll
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\Old_files\samplewcfservice\obj\Debug\samplewcfservice.pdb

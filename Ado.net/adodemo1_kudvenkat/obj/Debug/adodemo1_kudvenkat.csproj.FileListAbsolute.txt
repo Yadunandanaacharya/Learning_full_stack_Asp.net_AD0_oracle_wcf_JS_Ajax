@@ -1,0 +1,10 @@
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\bin\Debug\adodemo1_kudvenkat.exe.config
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\bin\Debug\adodemo1_kudvenkat.exe
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\bin\Debug\adodemo1_kudvenkat.pdb
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\obj\Debug\adodemo1_kudvenkat.csprojAssemblyReference.cache
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\obj\Debug\adodemo1_kudvenkat.Form1.resources
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\obj\Debug\adodemo1_kudvenkat.Properties.Resources.resources
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\obj\Debug\adodemo1_kudvenkat.csproj.GenerateResource.cache
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\obj\Debug\adodemo1_kudvenkat.csproj.CoreCompileInputs.cache
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\obj\Debug\adodemo1_kudvenkat.exe
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adodemo1_kudvenkat\obj\Debug\adodemo1_kudvenkat.pdb

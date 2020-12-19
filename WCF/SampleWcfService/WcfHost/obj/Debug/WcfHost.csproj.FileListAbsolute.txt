@@ -1,0 +1,13 @@
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\bin\Debug\WcfHost.exe.config
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\bin\Debug\WcfHost.exe
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\bin\Debug\WcfHost.pdb
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\bin\Debug\SampleWcfService.dll
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\bin\Debug\SampleWcfService.pdb
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\obj\Debug\WcfHost.csprojAssemblyReference.cache
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\obj\Debug\WcfHost.Form1.resources
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\obj\Debug\WcfHost.Properties.Resources.resources
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\obj\Debug\WcfHost.csproj.GenerateResource.cache
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\obj\Debug\WcfHost.csproj.CopyComplete
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\obj\Debug\WcfHost.exe
+D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\WCF\SampleWcfService\WcfHost\obj\Debug\WcfHost.pdb

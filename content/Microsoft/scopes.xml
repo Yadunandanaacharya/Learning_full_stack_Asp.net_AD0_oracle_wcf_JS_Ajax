@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scope-info version="2">
+  <catalog-membership>
+    <catalog name="VS\100\EN-US">
+      <scope ref="urn:34fb494c-5fca-fc49-19a2-4324d5df72f7" displayname="Help on Help" source="http://services.mtps.microsoft.com/serviceapi/products/dd936256/dd550724/books/dd550726/en-us" kind="Microsoft" productname="Help Library" />
+    </catalog>
+  </catalog-membership>
+  <scope-membership>
+    <scope ref="urn:34fb494c-5fca-fc49-19a2-4324d5df72f7">
+      <package ref="Microsoft_Help_20219253_VS_100_en-us_1" />
+    </scope>
+  </scope-membership>
+</scope-info>
