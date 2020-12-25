@@ -1,5 +1,0 @@
-D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adoUnderstand_dataset\obj\Debug\adoUnderstand_dataset.csprojAssemblyReference.cache
-D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adoUnderstand_dataset\obj\Debug\adoUnderstand_dataset.Properties.Resources.resources
-D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adoUnderstand_dataset\obj\Debug\adoUnderstand_dataset.UnderstandDataSet.resources
-D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adoUnderstand_dataset\obj\Debug\adoUnderstand_dataset.csproj.GenerateResource.cache
-D:\Github_clone_repo\Learning_full_stack_Asp.net_AD0_oracle_wcf_JS_Ajax\Ado.net\adoUnderstand_dataset\obj\Debug\adoUnderstand_dataset.csproj.CoreCompileInputs.cache
